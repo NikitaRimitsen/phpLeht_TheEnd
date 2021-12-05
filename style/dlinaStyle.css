@@ -1,0 +1,46 @@
+body{
+    background-color: #FFE4C4;
+}
+
+
+form[name="cm"]
+{
+    background-color:#FFA07A;
+    max-width:500px;
+    padding:16px;
+    border-radius: 20px 10px 20px 10px;
+    border-color: black;
+}
+
+form[name="m"]
+{
+    background-color:#FFA07A;
+    max-width:500px;
+    padding:16px;
+    border-radius: 20px 10px 20px 10px;
+    border-color: black;
+}
+
+form[name="dm"]
+{
+    background-color:#FFA07A;
+    max-width:500px;
+    padding:16px;
+    border-radius: 20px 10px 20px 10px;
+    border-color: black;
+}
+
+form[name="km"]
+{
+    background-color:#FFA07A;
+    max-width:500px;
+    padding:16px;
+    border-radius: 20px 10px 20px 10px;
+    border-color: black;
+}
+
+img{
+    position:absolute;
+    margin-left: 40%;
+    top: 270px;
+}

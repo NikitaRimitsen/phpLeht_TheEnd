@@ -1,0 +1,19 @@
+canvas{
+    width: 600px;
+    height: 300px;
+    background-color: #E0FFFF;
+}
+
+input[type=button]{
+    background-color: #e5fdfd;
+    border: solid 1px black;
+    color: black;
+    margin: 4px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+body{
+    background-color: cornsilk ; /*taust #E0FFFF */
+    color:black; /*tekstiv*/
+}
